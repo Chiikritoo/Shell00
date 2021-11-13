@@ -1,0 +1,6 @@
+Credentials cache: API:D5BA740A-66A1-4406-8A51-C81050399269
+        Principal: achikri@42MULHOUSE.FR
+
+  Issued                Expires               Principal
+Nov 13 14:50:06 2021  Nov 14 00:50:06 2021  krbtgt/42MULHOUSE.FR@42MULHOUSE.FR
+Nov 13 14:50:08 2021  Nov 14 00:50:06 2021  HTTP/student-storage.42mulhouse.fr@42MULHOUSE.FR
